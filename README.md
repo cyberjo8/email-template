@@ -1,1 +1,2 @@
-The Css is internal and the font family is in the folder "fonts"
+The Css is internal and some of the style is inline
+The font family is in the folder "fonts"
